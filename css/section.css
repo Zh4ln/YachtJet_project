@@ -1,0 +1,15 @@
+.section {
+  padding-bottom: 150px;
+}
+
+.section-title {
+  font-weight: 500;
+  font-size: 48px;
+  text-align: center;
+}
+
+#about .section-title {
+  color: #1b414b;
+  text-align: left;
+  width: 537px;
+}
